@@ -1,2 +1,2 @@
-# web-scraping-marketplace
-Repositório criado via API com Feign
+# simple-projetc
+Projeto simples utilizado como base para outros estudos
